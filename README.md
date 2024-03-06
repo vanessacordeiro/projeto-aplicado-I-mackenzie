@@ -21,6 +21,10 @@ O objetivo do projeto é realizar uma análise a fim de identificar os cursos ma
 O dataset utilizado foi coletado do repositório dados.gov.br, dado do INEP acerca dos indicadores de fluxo da educação superior tendo como base o período de 2016 a 2022.
 
 &nbsp;
+## 🎲 Base de Dados
+[Indicadores de Fluxo da Educação Superior - gov.br](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-fluxo-da-educacao-superior)
+
+&nbsp;
 ## 🙇 Grupo
 
 - [EULLER NOGUEIRA](https://github.com/nog7) - 10416092@mackenzista.com.br
