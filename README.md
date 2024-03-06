@@ -12,7 +12,8 @@
 
 &nbsp;
 ## 🚀 Objetivo
-\<objetivo\>
+O objetivo do projeto é realizar uma análise a fim de identificar os cursos mais procurados, com maior retenção e taxa de conclusão na Universidade de São Paulo (USP), a fim de fornecer à instituição insights preditivos para a alocação eficiente de recursos nos cursos que tiverem maior retorno. Isso será alcançado através da coleta, limpeza e preparação dos dados pertinentes, seguida de uma análise exploratória para compreender a distribuição e correlações entre as variáveis relevantes, como número de ingressantes, taxa de permanência e taxa de conclusão. </br>
+O dataset utilizado foi coletado do repositório dados.gov.br, dado do INEP acerca dos indicadores de fluxo da educação superior tendo como base o período de 2016 a 2022.
 
 &nbsp;
 ## 🙇 Grupo
