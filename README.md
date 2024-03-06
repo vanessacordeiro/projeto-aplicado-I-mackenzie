@@ -5,6 +5,11 @@
 ## 📄 Sumário
 
 - **base/**
+  - **indicadores_fluxo_es_2016-2022/**
+    - **Dicionário_acompanhamento_trajetória.docx**
+    - **indicadores_trajetoria_educacao_superior_2016_2022.ods**
+    - **indicadores_trajetoria_educacao_superior_2016_2022.xlsx**
+    - **md5_indicadores_trajetoria_educacao_superior_2016_2022.txt**
 
 - **.gitignore**
 
