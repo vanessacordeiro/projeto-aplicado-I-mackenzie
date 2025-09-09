@@ -20,7 +20,7 @@ _texto
 
 &nbsp;
 ## 🎲 Base de Dados
-[Indicadores de Fluxo da Educação Superior - gov.br](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-fluxo-da-educacao-superior)
+[Reclamações na Anatel - dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/solicitacoesregistradasnaanatel)
 
 &nbsp;
 ## 🙇 Grupo
