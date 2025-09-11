@@ -16,7 +16,11 @@
 
 &nbsp;
 ## 🚀 Objetivo
-_texto
+- Compreender o comportamento das manifestações registradas na Anatel, identificando padrões de volume, evolução temporal e distribuição geográfica das solicitações.
+- Analisar a qualidade percebida dos serviços de telecomunicações, a partir da categorização por serviço (telefonia móvel, fixa, internet, TV por assinatura) e pelas marcas/operadoras.
+- Identificar os principais problemas relatados pelos consumidores, destacando assuntos recorrentes e possíveis gargalos no setor.
+- Avaliar os canais de entrada utilizados pelos cidadãos, verificando quais são mais acessados e como contribuem para a representatividade das manifestações.
+- Produzir insights que possam apoiar políticas públicas e decisões regulatórias da Anatel e subsidiar ações de melhoria pelas operadoras.
 
 &nbsp;
 ## 🎲 Base de Dados
