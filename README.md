@@ -25,7 +25,7 @@ _texto
 &nbsp;
 ## 🙇 Grupo
 
-- [DAVID WILDSON GONÇALVES SANTOS](https://github.com/) - 10744094@mackenzista.com.br
+- [DAVID WILDSON GONÇALVES SANTOS](https://github.com/1DavidSantos) - 10744094@mackenzista.com.br
 - [HENRIQUE MACHADO BARBOSA](https://github.com/) - 10747413@mackenzista.com.br
-- [TOMAZ TELES CARNEIRO](https://github.com/) - 10746600@mackenzista.com.br
+- [TOMAZ TELES CARNEIRO](https://github.com/tomaztc) - 10746600@mackenzista.com.br
 - [VANESSA CORDEIRO GONÇALVES DE OLIVEIRA](https://github.com/vanessacordeiro) - 10415118@mackenzista.com.br
