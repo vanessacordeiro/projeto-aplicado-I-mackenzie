@@ -6,8 +6,9 @@
 
 - **base/**
   - **consumidor_reclamacoes/**
-    - **reclamacoes.csv** ~arquivo indisponivel no Git devido a limite de tamanho
-    - **reclamacoes_contexto.csv** ~arquivo indisponivel no Git devido a limite de tamanho
+    - **reclamacoes.csv** ~arquivo indisponivel no Git devido a limite de tamanho (Disponível no Drive)
+    - **reclamacoes_contexto.csv** ~arquivo indisponivel no Git devido a limite de tamanho (Disponível no Drive)
+    - **consumidor_reclamacoes.zip**
   - **Reclamações_Glossário_e_Metadados.pdf**
 
 - **.gitignore**
@@ -24,7 +25,9 @@
 
 &nbsp;
 ## 🎲 Base de Dados
-[Reclamações na Anatel - dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/solicitacoesregistradasnaanatel)
+**Origem:** [Reclamações na Anatel - dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/solicitacoesregistradasnaanatel)
+
+**Dataset:** [Arquivo base](https://github.com/vanessacordeiro/projeto-aplicado-I-mackenzie/tree/main/base/consumidor_reclamacoes)
 
 &nbsp;
 ## 🙇 Grupo
