@@ -11,6 +11,13 @@
     - **consumidor_reclamacoes.zip**
   - **Reclamações_Glossário_e_Metadados.pdf**
 
+- **entregas/**
+  - **Etapa 1 - Projeto Aplicado I.pdf**
+
+- **scripts/**
+  - **Etapa 1 - Inicio da Analise.ipynb**
+  - **Etapa 2 - Analise Exploratoria.ipynb**
+
 - **.gitignore**
 
 - **README.md**
