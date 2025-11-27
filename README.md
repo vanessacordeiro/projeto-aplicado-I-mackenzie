@@ -23,6 +23,10 @@
 - **README.md**
 
 &nbsp;
+## 📹 Apresentação do Projeto
+https://youtu.be/9Gza5R_Bi8c
+
+&nbsp;
 ## 🚀 Objetivo
 - Compreender o comportamento das manifestações registradas na Anatel, identificando padrões de volume, evolução temporal e distribuição geográfica das solicitações.
 - Analisar a qualidade percebida dos serviços de telecomunicações, a partir da categorização por serviço (telefonia móvel, fixa, internet, TV por assinatura) e pelas marcas/operadoras.
