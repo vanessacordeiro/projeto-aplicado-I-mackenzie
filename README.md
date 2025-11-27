@@ -22,6 +22,10 @@
 
 - **README.md**
 
+- **Projeto Aplicado I - Apresentação (slide).pptx**
+
+- **Projeto Aplicado I - Documento Final.pdf**
+
 &nbsp;
 ## 📹 Apresentação do Projeto
 https://youtu.be/9Gza5R_Bi8c
